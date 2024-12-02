@@ -1,5 +1,5 @@
 # Aprende HTML en una Semana
-![Aprende HTML](https://via.placeholder.com/800x200.png?text=Aprende+HTML+en+una+Semana)
+![Aprende HTML](https://www.canva.com/design/DAGYK-Uwwb0/I3naIwpJUIsr1C1Ib8L8Yg/view?utm_content=DAGYK-Uwwb0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ¡Bienvenido! 
 
 Soy Cristian Manuel Veliz, un **profesor de programación** que enseña en **inglés y español**. 
