@@ -39,40 +39,48 @@ Si te ha sido útil este repositorio, por favor:
 ---
 ¡Espero que disfrutes aprendiendo HTML y que este repositorio sea de gran ayuda en tu camino como programador! 😄
 
-## 📚 **¿Cómo funciona este repositorio?**
+## ¡Bienvenidos al reto!
 
-El repositorio está dividido en 7 días. Cada día cubre un tema esencial de HTML. 
+Este es un reto de **7 días para aprender HTML**, donde construirás tu propio **portafolio personal** desde el primer día. Cada día aprenderás un tema clave de HTML y lo aplicarás directamente a tu portafolio, que podrás usar para mostrar tu **historial académico**, **habilidades**, **experiencia** y **proyectos**.
 
-| Día  | Tema                                   |
-|------|---------------------------------------|
-| Día 1| Introducción a HTML                   |
-| Día 2| Estructura básica de HTML             |
-| Día 3| Trabajar con texto y encabezados      |
-| Día 4| Imágenes y enlaces                    |
-| Día 5| Tablas y listas                       |
-| Día 6| Formularios básicos                   |
-| Día 7| Proyecto final: Tu primera página web |
+### 🎯 **Objetivo del reto**
 
-📂 Encuentra los contenidos de cada día en la carpeta `dias/`.
+Al final de estos 7 días, habrás creado un portafolio completo utilizando **HTML**, donde podrás mostrar:
+
+- **Sobre mí**: Una breve presentación sobre quién eres.
+- **Experiencia académica**: Tu formación y logros.
+- **Habilidades**: Lo que sabes hacer.
+- **Proyectos**: Los trabajos que has realizado o que deseas destacar.
+
+Cada día trabajarás en una parte de tu portafolio, asegurándote de que al finalizar la semana tengas una página web completamente funcional.
 
 ---
 
-## 🖼️ **Ejemplo del Día 1**
+## 📅 **Plan de estudio de 7 días**
 
-Aquí tienes un ejemplo de cómo se ve la estructura básica de una página web en HTML:
+El reto está dividido en 7 días, donde aprenderás HTML y construirás tu portafolio desde el primer día. Aquí está el plan:
 
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Primer Sitio Web</title>
-</head>
-<body>
-  <h1>¡Bienvenido a mi primer sitio web!</h1>
-  <p>Este es el primer paso para convertirte en un desarrollador web.</p>
-</body>
-</html>
+| Día      | Tema                          |
+|----------|-------------------------------|
+| **Día 1**| Introducción a HTML y estructura básica del portafolio |
+| **Día 2**| Estructura de la página: Header, Main y Footer |
+| **Día 3**| Trabajar con texto y encabezados en tu portafolio |
+| **Día 4**| Agregar imágenes y enlaces para personalizar tu portafolio |
+| **Día 5**| Usar tablas y listas para organizar contenido |
+| **Día 6**| Crear formularios de contacto en tu portafolio |
+| **Día 7**| Revisión final y ajustes del portafolio personal |
 
+> 📂 **Encuentra los contenidos de cada día en la carpeta `dias/`**.
 
+---
+
+## 📂 **¿Cómo funciona este repositorio?**
+
+Este repositorio está diseñado para guiarte mientras creas tu portafolio personal con HTML. Cada día encontrarás una nueva carpeta en `dias/` con los ejercicios y ejemplos para ese día. Además, al final de cada día, habrás avanzado en la construcción de tu portafolio.
+
+### **Instrucciones para empezar:**
+1. **Clona el repositorio**:
+   Clona este repositorio en tu máquina local para comenzar:
+
+   ```bash
+   git clone https://github.com/crimanvel/ManuDev-Aprende-HTML-En-Una-Semana.gi
