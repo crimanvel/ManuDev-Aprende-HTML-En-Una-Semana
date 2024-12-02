@@ -44,6 +44,8 @@ Si te ha sido útil este repositorio, por favor:
 Este es un reto de **7 días para aprender HTML**, donde construirás tu propio **portafolio personal** desde el primer día. Cada día aprenderás un tema clave de HTML y lo aplicarás directamente a tu portafolio, que podrás usar para mostrar tu **historial académico**, **habilidades**, **experiencia** y **proyectos**.
 
 ### 🎯 **Objetivo del reto**
+![DIA1 (2)](https://github.com/user-attachments/assets/7aae922e-ed4c-4b68-95a1-a682d9256845)
+
 
 Al final de estos 7 días, habrás creado un portafolio completo utilizando **HTML**, donde podrás mostrar:
 
