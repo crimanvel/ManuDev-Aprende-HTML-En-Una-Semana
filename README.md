@@ -19,7 +19,7 @@ Aquí aprenderás todo lo esencial que necesitas para crear sitios web usando HT
 
 Si te ha sido útil este repositorio, por favor:
 
-- **Dame una estrella ⭐** en este repositorio.
+- **Dame una estrella ⭐** en este repositorio (arriba a la derecha puedes encontrar la estrella, solo tienes que hacer click sobre ella).
 - **Sígueme en mis redes sociales**:
   - [Twitter](https://x.com/Manvel_0)
   - [LinkedIn](https://www.linkedin.com/in/cristian-manuel-veliz-/)
