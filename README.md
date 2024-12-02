@@ -1,5 +1,5 @@
 # Aprende HTML en una Semana
-![APRENDÉ HTML EN 7 DÍAS](https://github.com/user-attachments/assets/06fa0cd0-3944-44ae-9e38-37fbc99f5677)
+![APRENDÉ HTML EN 7 DÍAS (1)](https://github.com/user-attachments/assets/fb4435d2-223e-41ff-a116-0b6574972186)
 
 ¡Bienvenido! 
 
