@@ -8,10 +8,10 @@ Este repositorio está diseñado para ayudarte a aprender HTML en **7 días**.
 
 Aquí aprenderás todo lo esencial que necesitas para crear sitios web usando HTML, paso a paso.
 
-## ¿Cómo funciona?
-1. Cada día cubrimos un tema básico de HTML.
-2. Abre los archivos `dias/diaX.md` y sigue los ejemplos.
-3. Practica inspeccionando el código HTML en tu navegador.
+## 🎯 **¿Qué encontrarás aquí?**
+- ✅ Una guía paso a paso para aprender HTML desde cero.
+- ✅ Archivos organizados por día (`dias/diaX.md`).
+- ✅ Ejercicios prácticos y ejemplos para construir tu primera página web.
 
 ---
 
@@ -19,20 +19,58 @@ Aquí aprenderás todo lo esencial que necesitas para crear sitios web usando HT
 
 Si te ha sido útil este repositorio, por favor:
 
-- **Dame una estrella ⭐** en este repositorio (arriba a la derecha puedes encontrar la estrella, solo tienes que hacer click sobre ella).
-- **Sígueme en mis redes sociales**:
+- ⭐**Dame una estrella ⭐** en este repositorio (arriba a la derecha puedes encontrar la estrella, solo tienes que hacer click sobre ella).
+- 🛠️ **Comparte este repositorio con otros estudiantes.**
+- 🔗 **Sígueme en mis redes sociales**:
   - [Twitter](https://x.com/Manvel_0)
   - [LinkedIn](https://www.linkedin.com/in/cristian-manuel-veliz-/)
   - [Instagram](https://www.instagram.com/manudev.19)
   - [Youtube](https://www.youtube.com/@cristianmanuelveliz)
 ---
 
-## ¿Te gustaría una clase gratuita?
+## 📅 **Reserva tu clase gratuita**
 
-Si quieres aprender más sobre programación y necesitas ayuda personalizada, ¡puedes elegir un turno para una clase gratuita! Solo haz clic en el siguiente enlace para reservar tu clase:
+🎓 ¿Quieres aprender más sobre programación o HTML? ¡Reserva una clase gratuita conmigo! Haz clic en el siguiente enlace para elegir tu turno:
 
-[Reserva tu clase gratuita aquí](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0HG25Sux8f2fGPpcppY5a-voU1aXwXDeMQPTJQbBhJqrV324nal_3QrLRwsyZzAS8ffRoM-Qbl)
+👉 **(https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0HG25Sux8f2fGPpcppY5a-voU1aXwXDeMQPTJQbBhJqrV324nal_3QrLRwsyZzAS8ffRoM-Qbl)
 
 ---
+---
+
+## 📚 **¿Cómo funciona este repositorio?**
+
+El repositorio está dividido en 7 días. Cada día cubre un tema esencial de HTML. 
+
+| Día  | Tema                                   |
+|------|---------------------------------------|
+| Día 1| Introducción a HTML                   |
+| Día 2| Estructura básica de HTML             |
+| Día 3| Trabajar con texto y encabezados      |
+| Día 4| Imágenes y enlaces                    |
+| Día 5| Tablas y listas                       |
+| Día 6| Formularios básicos                   |
+| Día 7| Proyecto final: Tu primera página web |
+
+📂 Encuentra los contenidos de cada día en la carpeta `dias/`.
+
+---
+
+## 🖼️ **Ejemplo del Día 1**
+
+Aquí tienes un ejemplo de cómo se ve la estructura básica de una página web en HTML:
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Primer Sitio Web</title>
+</head>
+<body>
+  <h1>¡Bienvenido a mi primer sitio web!</h1>
+  <p>Este es el primer paso para convertirte en un desarrollador web.</p>
+</body>
+</html>
 
 ¡Espero que disfrutes aprendiendo HTML y que este repositorio sea de gran ayuda en tu camino como programador! 😄
