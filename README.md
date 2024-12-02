@@ -36,6 +36,7 @@ Si te ha sido útil este repositorio, por favor:
 
 ---
 ---
+¡Espero que disfrutes aprendiendo HTML y que este repositorio sea de gran ayuda en tu camino como programador! 😄
 
 ## 📚 **¿Cómo funciona este repositorio?**
 
@@ -73,4 +74,4 @@ Aquí tienes un ejemplo de cómo se ve la estructura básica de una página web 
 </body>
 </html>
 
-¡Espero que disfrutes aprendiendo HTML y que este repositorio sea de gran ayuda en tu camino como programador! 😄
+
