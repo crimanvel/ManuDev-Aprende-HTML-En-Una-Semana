@@ -123,7 +123,7 @@ Asegúrate de que tu código se vea como este ejemplo:
 ```
 Guarda los cambios y abre el archivo en tu navegador para ver cómo luce la estructura.
 🌟 Reto adicional (opcional)
-Agrega una lista adicional en el <footer> con enlaces a tus redes sociales. Por ejemplo:
+Agrega una lista adicional en el footer con enlaces a tus redes sociales. Por ejemplo:
 ```html
 <footer>
   <p>© 2024 Mi Nombre. Todos los derechos reservados.</p>
