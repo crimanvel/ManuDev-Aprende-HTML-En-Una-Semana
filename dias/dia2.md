@@ -1,6 +1,8 @@
 
+![DIA1 (3)](https://github.com/user-attachments/assets/8f792db2-7b33-4709-959f-b51e85310843)
+
 # Día 2: Estructura de la página: Header, Main y Footer!
-[DIA1 (3)](https://github.com/user-attachments/assets/9a4110f4-38aa-4a29-b4c6-e7467dbc6394)
+
 
 
 ## 🛠️ Objetivo del día
