@@ -1,8 +1,11 @@
-# Día 2: Estructura de la página: Header, Main y Footer
+
+# Día 2: Estructura de la página: Header, Main y Footer!
+[DIA1 (3)](https://github.com/user-attachments/assets/9a4110f4-38aa-4a29-b4c6-e7467dbc6394)
+
 
 ## 🛠️ Objetivo del día
 
-Hoy aprenderás a organizar tu portafolio web utilizando las etiquetas **semánticas principales** de HTML:
+Hoy aprenderás a organizar tu portafolio web utilizando las etiquetas **semánticas principales** de HTML (dentro de la etiqueta body):
 - `<header>`  
 - `<main>`  
 - `<footer>`  
