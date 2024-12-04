@@ -1,40 +1,26 @@
 ![DIA1](https://github.com/user-attachments/assets/4331b9c9-ac68-4bc0-98b3-cadb3e6017a5)
 
-# Día 1: Introducción al HTML y la estructura de tu portafolio
+Día 1: Introducción al HTML y la estructura de tu portafolio
+🛠️ Objetivo del día
+Hoy aprenderás a construir la estructura básica de tu portafolio utilizando HTML. Además, descubrirás cómo HTML interactúa con CSS y JavaScript.
 
-## 🛠️ Objetivo de hoy
+Al final del día, habrás creado el esqueleto de tu sitio web personal. 🎉
 
-En el primer día de este reto, aprenderás a construir la **estructura básica** de tu portafolio utilizando **HTML**.
+📜 ¿Qué es HTML?
+HTML (HyperText Markup Language) es el lenguaje estándar para crear páginas web. Es como el esqueleto de tu página: sin él, no tendrías ninguna estructura.
 
-Además, te introduciré a conceptos clave como la relación entre **HTML**, **CSS** y **JavaScript**. 
+🌟 Relación entre HTML, CSS y JavaScript
+HTML: Proporciona la estructura del contenido (el esqueleto).
+CSS: Da estilo al contenido (colores, tipografías, tamaños, diseño responsivo).
+JavaScript: Añade funcionalidad (interactividad, formularios dinámicos, etc.).
+Con estas tres herramientas, podrás crear sitios web completos y funcionales. 🖥️
 
-Al final del día, habrás creado el **esqueleto** de tu sitio web personal.
+🛠️ Herramientas necesarias
+Para empezar a escribir código HTML, necesitas:
 
----
-
-## 📜 ¿Qué es HTML?
-
-**HTML** (HyperText Markup Language) es el lenguaje estándar para **crear páginas web**. 
-
-Piensa en HTML como el **esqueleto** de tu página: sin él, no tendrías ninguna estructura.
-
-### 🏗️ ¿Cómo funciona?
-
-HTML te permite estructurar todo el contenido de tu página web. 
-
-Con HTML, puedes definir secciones, agregar texto, imágenes, enlaces, y más.
-
-El CSS te permite tomar esa estructura HTML y darle diseño (colores, tipografias, movimiento, cambios de tamaño, imagenes, y adaptabilidad en diferentes dispositivos.
-
-Por último, el Javascript permite tomar elementos del navegador y generar funcionalidades para que el usuario utilice.
-
-Estas tres herramientas son la pieza fundamental del desarrollo Frontend de páginas web.
-
-### 🏗️ ¿Qué necesito para escribir código en HTML5?
-
-Basta con un celular, tablet o computadora que tenga el block de notas. (Tendras que guardar el archivo con la extension .HTML) y un navegador web (Chrome, Mozilla, Opera, Edge, etc.)
-
-Puedes instalar el Microsoft Visual Studio Code si queieres  te dejo mi video en donde te explico como instalarlo en tu pc https://www.youtube.com/watch?v=qEtTU5eNR7M&list=PLd4M2wjDKXtZa1fzvT-y2I-FQK8_tVB0l
+Un editor de texto (puedes usar el bloc de notas, pero recomiendo Visual Studio Code).
+Un navegador web (Chrome, Edge, Firefox, etc.).
+💡 Si necesitas instalar Visual Studio Code, revisa este https://www.youtube.com/watch?v=qEtTU5eNR7M&list=PLd4M2wjDKXtZa1fzvT-y2I-FQK8_tVB0l
 
 
 ## 📜 ¿Cómo puedo ver el código HTML de una página?
