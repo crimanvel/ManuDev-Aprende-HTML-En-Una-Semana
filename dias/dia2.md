@@ -70,4 +70,70 @@ Aquí tienes un ejemplo de cómo organizar el contenido de tu portafolio con est
     </footer>
   </body>
 </html>
+```
+✍️ Actividad: Continúa tu portafolio
+Objetivo:
+Ampliar el archivo index.html creado en el Día 1, añadiendo las etiquetas semánticas principales.
 
+Instrucciones:
+Abre el archivo index.html que creaste en el Día 1.
+Modifica la estructura para incluir las siguientes etiquetas:
+<header>: Usa esta etiqueta para envolver el título de tu página y un menú de navegación.
+<main>: Aquí irá el contenido principal (ej. "Sobre mí", "Proyectos").
+<footer>: Añade un pie de página con derechos de autor.
+Asegúrate de que tu código se vea como este ejemplo:
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>Mi Portafolio</title>
+  </head>
+  <body>
+    <header>
+      <h1>Mi Portafolio</h1>
+      <nav>
+        <ul>
+          <li><a href="#sobre-mi">Sobre mí</a></li>
+          <li><a href="#proyectos">Proyectos</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="sobre-mi">
+        <h2>Sobre mí</h2>
+        <p>¡Hola! Soy un desarrollador web en formación. Este es mi portafolio.</p>
+      </section>
+
+      <section id="proyectos">
+        <h2>Mis proyectos</h2>
+        <p>Pronto agregaré más contenido aquí.</p>
+      </section>
+    </main>
+
+    <footer>
+      <p>© 2024 Mi Nombre. Todos los derechos reservados.</p>
+    </footer>
+  </body>
+</html>
+
+```
+Guarda los cambios y abre el archivo en tu navegador para ver cómo luce la estructura.
+🌟 Reto adicional (opcional)
+Agrega una lista adicional en el <footer> con enlaces a tus redes sociales. Por ejemplo:
+```html
+<footer>
+  <p>© 2024 Mi Nombre. Todos los derechos reservados.</p>
+  <ul>
+    <li><a href="https://twitter.com/tuusuario">Twitter</a></li>
+    <li><a href="https://github.com/tuusuario">GitHub</a></li>
+    <li><a href="https://linkedin.com/in/tuusuario">LinkedIn</a></li>
+  </ul>
+</footer>
+
+```
+🌱 ¿Qué sigue?
+En el Día 3 aprenderás a trabajar con texto y encabezados, dando más estilo y estructura a tu portafolio. ¡Nos vemos mañana! 🚀
