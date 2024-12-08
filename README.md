@@ -1,4 +1,4 @@
-# Aprende lo esencial de HTML en una semana!
+# Aprendé lo esencial de HTML en una semana!
 ![APRENDÉ HTML EN 7 DÍAS (1)](https://github.com/user-attachments/assets/fb4435d2-223e-41ff-a116-0b6574972186)
 
 ¡Bienvenido! 
