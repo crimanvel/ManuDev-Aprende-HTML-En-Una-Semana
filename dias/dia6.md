@@ -76,14 +76,13 @@ Agrega más campos: Por ejemplo, un campo para que los usuarios seleccionen su m
 
 Ejemplo:
 
-```html
 <label for="motivo">Motivo de contacto:</label>
 <select id="motivo" name="motivo">
   <option value="consulta">Consulta</option>
   <option value="proyecto">Propuesta de proyecto</option>
   <option value="otro">Otro</option>
 </select>
-```
+
 
 🌱 ¿Qué sigue?
 En el Día 7 revisaremos tu portafolio completo, haremos ajustes finales y aprenderemos cómo publicarlo para que esté disponible en internet. ¡Nos vemos mañana! 🚀
