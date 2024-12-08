@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <!-- Meta información básica -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Título de la página -->
+  <title>Mi Portafolio - Responsivo e Interactivo</title>
+  
+  <!-- Estilos en CSS -->
+  <style>
+    /* Estilo general para toda la página */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      line-height: 1.6;
+    }
+
+    /* Encabezado de la página */
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    /* Título del encabezado */
+    header h1 {
+      margin: 0;
+    }
+
+    /* Barra de navegación con enlaces */
+    nav ul {
+      list-style: none; /* Eliminamos los puntos de las listas */
+      padding: 0;
+      display: flex;
+      justify-content: center; /* Centra los enlaces en la barra */
+      gap: 1rem; /* Espaciado entre los enlaces */
+      margin-top: 0.5rem;
+    }
+
+    /* Estilo de los enlaces */
+    nav a {
+      text-decoration: none; /* Sin subrayado */
+      color: white;
+      font-weight: bold; /* Letras en negrita */
+    }
+
+    /* Cambia el estilo al pasar el mouse sobre un enlace */
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    /* Área principal del contenido */
+    main {
+      padding: 2rem;
+    }
+
+    /* Cada sección de contenido */
+    section {
+      margin-bottom: 2rem;
+    }
+
+    /* Títulos de las secciones */
+    h2 {
+      color: #34495e;
+      border-bottom: 2px solid #ecf0f1; /* Línea decorativa debajo del título */
+      display: inline-block;
+      margin-bottom: 1rem;
+    }
+
+    /* Párrafos generales */
+    p {
+      color: #7f8c8d;
+    }
+
+    /* Enlaces dentro del contenido */
+    a {
+      color: #2980b9; /* Azul */
+    }
+    a:hover {
+      color: #3498db; /* Azul más claro al pasar el mouse */
+    }
+
+    /* Estilo de las imágenes */
+    section img {
+      max-width: 100%; /* Escala la imagen al ancho del contenedor */
+      border-radius: 5px; /* Bordes redondeados */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra alrededor de la imagen */
+      margin-top: 1rem;
+    }
+
+    /* Tablas de habilidades */
+    table {
+      width: 100%; /* Tabla ocupa todo el ancho del contenedor */
+      border-collapse: collapse; /* Sin espacios entre celdas */
+      margin-top: 1rem;
+    }
+    th, td {
+      border: 1px solid #ddd; /* Borde sutil entre celdas */
+      padding: 0.5rem; /* Espaciado interno */
+      text-align: left; /* Texto alineado a la izquierda */
+    }
+    th {
+      background-color: #2c3e50; /* Fondo oscuro para encabezados */
+      color: white; /* Texto blanco en encabezados */
+    }
+
+    /* Formularios */
+    form {
+      display: flex;
+      flex-direction: column; /* Organiza los campos en columna */
+      gap: 1rem; /* Espaciado entre campos */
+    }
+    input, textarea, button {
+      padding: 0.5rem; /* Espaciado interno */
+      border: 1px solid #ddd; /* Borde sutil */
+      border-radius: 5px; /* Bordes redondeados */
+      font-size: 1rem; /* Tamaño del texto */
+    }
+    button {
+      background-color: #2ecc71; /* Fondo verde */
+      color: white;
+      border: none;
+      cursor: pointer; /* Cambia el cursor a mano */
+      font-weight: bold;
+    }
+    button:hover {
+      background-color: #27ae60; /* Verde más oscuro al pasar el mouse */
+    }
+
+    /* Pie de página */
+    footer {
+      text-align: center; /* Texto centrado */
+      background-color: #2c3e50; /* Fondo oscuro */
+      color: white;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+
+    /* Responsividad */
+    @media (max-width: 768px) {
+      nav ul {
+        flex-direction: column; /* Navegación en columna en pantallas pequeñas */
+        align-items: center;
+        gap: 0.5rem;
+      }
+      table, th, td {
+        font-size: 0.9rem; /* Reduce tamaño del texto en tablas */
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Encabezado -->
+  <header>
+    <h1>Mi Portafolio</h1>
+    <nav>
+      <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#proyectos">Proyectos</a></li>
+        <li><a href="#habilidades">Habilidades</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Contenido principal -->
+  <main>
+    <!-- Sección de inicio -->
+    <section id="inicio">
+      <h2>Bienvenido</h2>
+      <p>¡Hola! Este es mi portafolio web donde encontrarás información sobre mis proyectos y habilidades.</p>
+      <!-- Botón interactivo -->
+      <button id="welcomeBtn">Haz clic aquí para un mensaje</button>
+    </section>
+
+    <!-- Sección de proyectos -->
+    <section id="proyectos">
+      <h2>Proyectos</h2>
+      <p>Aquí puedes ver algunos proyectos que he realizado:</p>
+      <ul>
+        <li>
+          <h3>Proyecto 1: Calculadora Básica</h3>
+          <p>Una calculadora desarrollada en HTML y JavaScript.</p>
+          <a href="https://github.com/tuusuario/proyecto1" target="_blank">Ver en GitHub</a>
+        </li>
+        <li>
+          <h3>Proyecto 2: Página de Noticias</h3>
+          <p>Una página web para mostrar noticias actuales.</p>
+          <a href="https://github.com/tuusuario/proyecto2" target="_blank">Ver en GitHub</a>
+        </li>
+      </ul>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4pr56KVkeusifio7Vp-f2320fy46LrDpBw&s" alt="Captura de un proyecto">
+    </section>
+
+    <!-- Sección de habilidades -->
+    <section id="habilidades">
+      <h2>Habilidades</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Habilidad</th>
+            <th>Nivel</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>HTML</td>
+            <td>Avanzado</td>
+          </tr>
+          <tr>
+            <td>CSS</td>
+            <td>Intermedio</td>
+          </tr>
+          <tr>
+            <td>JavaScript</td>
+            <td>Básico</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Sección de contacto -->
+    <section id="contacto">
+      <h2>Contacto</h2>
+      <form id="contactForm">
+        <!-- Campo de nombre -->
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required>
+        <!-- Campo de email -->
+        <label for="email">Correo:</label>
+        <input type="email" id="email" name="email" placeholder="Escribe tu correo electrónico" required>
+        <!-- Campo de mensaje -->
+        <label for="mensaje">Mensaje:</label>
+        <textarea id="mensaje" name="mensaje" rows="4" placeholder="Escribe tu mensaje aquí"></textarea>
+        <!-- Botón para enviar -->
+        <button type="submit">Enviar</button>
+      </form>
+    </section>
+  </main>
+
+  <!-- Pie de página -->
+  <footer>
+    <p>&copy; 2024 Mi Portafolio. Creado durante el reto de 7 días.</p>
+  </footer>
+
+  <!-- Código JavaScript -->
+  <script>
+    // Botón interactivo que muestra un mensaje
+    const welcomeBtn = document.getElementById("welcomeBtn");
+    welcomeBtn.addEventListener("click", () => {
+      alert("¡Bienvenido a mi portafolio interactivo!");
+    });
+
+    // Validación del formulario
+    const contactForm = document.getElementById("contactForm");
+    contactForm.addEventListener("submit", (event) => {
+      event.preventDefault(); // Evita que se recargue la página
+      const nombre = document.getElementById("nombre").value;
+      const email = document.getElementById("email").value;
+      const mensaje = document.getElementById("mensaje").value;
+
+      if (nombre && email && mensaje) {
+        alert("¡Gracias por contactarme! Pronto te responderé.");
+        contactForm.reset();
+      } else {
+        alert("Por favor, completa todos los campos.");
+      }
+    });
+  </script>
+</body>
+</html>
