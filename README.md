@@ -3,16 +3,18 @@
 
 ¡Bienvenido! 
 
-Soy Cristian Manuel Veliz, un **profesor de programación** que enseña en **inglés y español**. 
+Soy Cristian Manuel Veliz, tu **profesor de programación**.
+
+Dictó clases de programación a niños y adultos alrededor del mundo en **inglés y español**
 
 Este repositorio está diseñado para ayudarte a aprender HTML en **7 días**. 
 
-Aquí aprenderás todo lo esencial que necesitas para crear sitios web usando HTML, paso a paso.
+Aquí vas a ver lo esencial que necesitas para crear sitios web usando HTML, paso a paso.
 
 ## 🎯 **¿Qué encontrarás aquí?**
 - ✅ Una guía paso a paso para aprender HTML desde cero.
 - ✅ Archivos organizados por día (`dias/diaX.md`).
-- ✅ Ejercicios prácticos y ejemplos para construir tu primera página web.
+- ✅ Ejemplos de un portafolio solo con html y otro con css y js, además de contenido extra.
 
 ---
 
@@ -41,7 +43,8 @@ Si te ha sido útil este repositorio, por favor:
 
 ## ¡Bienvenidos al reto!
 
-Este es un reto de **7 días para aprender HTML**, donde construirás tu propio **portafolio personal** desde el primer día. Cada día aprenderás un tema clave de HTML y lo aplicarás directamente a tu portafolio, que podrás usar para mostrar tu **historial académico**, **habilidades**, **experiencia** y **proyectos**.
+Este es un reto de **7 días para aprender HTML**, donde construirás tu propio **portafolio personal** desde el primer día. 
+Cada día aprenderás un tema clave de HTML y lo aplicarás directamente a tu portafolio, que podrás usar para mostrar tu **historial académico**, **habilidades**, **experiencia** y **proyectos**.
 
 ### 🎯 **Objetivo del reto**
 ![DIA1 (2)](https://github.com/user-attachments/assets/7aae922e-ed4c-4b68-95a1-a682d9256845)
@@ -74,12 +77,6 @@ El reto está dividido en 7 días, donde aprenderás HTML y construirás tu port
 
 > 📂 **Encuentra los contenidos de cada día en la carpeta `dias/`.**
 
----
-
-## 📂 **¿Cómo funciona este repositorio?**
-
-Este repositorio está diseñado para guiarte mientras creas tu portafolio personal con HTML. Cada día encontrarás una nueva carpeta en `dias/` con los ejercicios y ejemplos para ese día. Al final de cada día, habrás avanzado un paso más en la construcción de tu portafolio.
-
 ### **Instrucciones para empezar:**
 1. **Clona el repositorio**  
    Clona este repositorio en tu máquina local para comenzar:
@@ -87,3 +84,4 @@ Este repositorio está diseñado para guiarte mientras creas tu portafolio perso
    ```bash
    git clone https://github.com/crimanvel/ManuDev-Aprende-HTML-En-Una-Semana.git
    cd ManuDev-Aprende-HTML-En-Una-Semana
+o puedes descargar la carpeta comprimida si es que aún no dominas git bash o la terminal de tu sistema operativo.
