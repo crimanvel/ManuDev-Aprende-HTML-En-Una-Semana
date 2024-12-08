@@ -1,11 +1,119 @@
+<!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta charset="UTF-8">
-    <title>Mi Portafolio</title>
-  </head>
-  <body>
-    <h1>Bienvenido a mi portafolio</h1>
-    <p>Este es el primer paso de mi página web.</p>
-    <a href="https://github.com">Visita mi GitHub</a>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Portafolio - Completo</title>
+</head>
+<body>
+  <!-- Día 2: Estructura básica -->
+  <!-- Esta es la estructura general de la página: Header, Main y Footer -->
+  <header>
+    <h1>Mi Portafolio</h1>
+    <!-- Menú de navegación básico -->
+    <nav>
+      <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#proyectos">Proyectos</a></li>
+        <li><a href="#habilidades">Habilidades</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Día 3: Texto y encabezados -->
+    <!-- Sección de bienvenida -->
+    <section id="inicio">
+      <h2>Bienvenido</h2>
+      <p>¡Hola! Este es mi portafolio web donde encontrarás información sobre mis proyectos y habilidades.</p>
+    </section>
+
+    <!-- Día 4: Imágenes y enlaces -->
+    <!-- Sección de proyectos -->
+    <section id="proyectos">
+      <h2>Proyectos</h2>
+      <p>Aquí puedes ver algunos proyectos que he realizado:</p>
+      <ul>
+        <li>
+          <!-- Proyecto 1 con enlace -->
+          <h3>Proyecto 1: Calculadora Básica</h3>
+          <p>Una calculadora desarrollada en HTML y JavaScript.</p>
+          <a href="https://github.com/tuusuario/proyecto1" target="_blank">Ver en GitHub</a>
+        </li>
+        <li>
+          <!-- Proyecto 2 con enlace -->
+          <h3>Proyecto 2: Página de Noticias</h3>
+          <p>Una página web para mostrar noticias actuales.</p>
+          <a href="https://github.com/tuusuario/proyecto2" target="_blank">Ver en GitHub</a>
+        </li>
+      </ul>
+      <!-- Imagen de ejemplo -->
+      <img src="https://via.placeholder.com/800x400" alt="Captura de un proyecto">
+    </section>
+
+    <!-- Día 5: Tablas y listas -->
+    <!-- Sección de habilidades -->
+    <section id="habilidades">
+      <h2>Habilidades</h2>
+      <p>Estas son algunas de las habilidades que he aprendido:</p>
+      <!-- Tabla de habilidades -->
+      <table border="1">
+        <thead>
+          <tr>
+            <th>Habilidad</th>
+            <th>Nivel</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>HTML</td>
+            <td>Avanzado</td>
+          </tr>
+          <tr>
+            <td>CSS</td>
+            <td>Intermedio</td>
+          </tr>
+          <tr>
+            <td>JavaScript</td>
+            <td>Básico</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Día 6: Formularios -->
+    <!-- Sección de contacto -->
+    <section id="contacto">
+      <h2>Contacto</h2>
+      <p>Envíame un mensaje utilizando el formulario a continuación:</p>
+      <form action="#" method="POST">
+        <!-- Campo de nombre -->
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required>
+        <!-- Campo de correo -->
+        <label for="email">Correo:</label>
+        <input type="email" id="email" name="email" placeholder="Escribe tu correo electrónico" required>
+        <!-- Campo de mensaje -->
+        <label for="mensaje">Mensaje:</label>
+        <textarea id="mensaje" name="mensaje" rows="4" placeholder="Escribe tu mensaje aquí"></textarea>
+        <!-- Botón de envío -->
+        <button type="submit">Enviar</button>
+      </form>
+    </section>
+    
+    <!-- Día 7: Actividad extra -->
+    <!-- Enlace para revisar el código completo -->
+    <section id="extra">
+      <h2>Revisión Final</h2>
+      <p>Hemos finalizado el portafolio. Puedes descargar el código fuente desde el siguiente enlace:</p>
+      <a href="https://github.com/tuusuario/portafolio" target="_blank">Descargar código completo</a>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2024 Mi Portafolio. Creado durante el reto de 7 días.</p>
+  </footer>
+</body>
 </html>
