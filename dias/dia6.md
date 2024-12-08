@@ -75,7 +75,7 @@ Integra estilos CSS: Mejora la apariencia del formulario con bordes, colores y e
 Agrega más campos: Por ejemplo, un campo para que los usuarios seleccionen su motivo de contacto con <select>.
 
 Ejemplo:
-
+```html
 <label for="motivo">Motivo de contacto:</label>
 <select id="motivo" name="motivo">
   <option value="consulta">Consulta</option>
@@ -83,6 +83,6 @@ Ejemplo:
   <option value="otro">Otro</option>
 </select>
 
-
+```
 🌱 ¿Qué sigue?
 En el Día 7 revisaremos tu portafolio completo, haremos ajustes finales y aprenderemos cómo publicarlo para que esté disponible en internet. ¡Nos vemos mañana! 🚀
