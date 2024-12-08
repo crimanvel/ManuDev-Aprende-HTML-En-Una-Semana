@@ -5,7 +5,7 @@
 
 Soy Cristian Manuel Veliz, tu **profesor de programación**.
 
-Dictó clases de programación a niños y adultos alrededor del mundo en **inglés y español**
+Dictó clases de programación a niños y adultos alrededor del mundo en **inglés y español**.
 
 Este repositorio está diseñado para ayudarte a aprender HTML en **7 días**. 
 
@@ -22,8 +22,8 @@ Aquí vas a ver lo esencial que necesitas para crear sitios web usando HTML, pas
 
 Si te ha sido útil este repositorio, por favor:
 
-- ⭐**Dame una estrella ⭐** en este repositorio (arriba a la derecha puedes encontrar la estrella, solo tienes que hacer click sobre ella).
-- 🛠️ **Comparte este repositorio con otros estudiantes.**
+- ⭐**Dame una estrella ⭐** en este repositorio,
+- 🛠️ **Comparte este repositorio con otras personas.**
 - 🔗 **Sígueme en mis redes sociales**:
   - [Twitter](https://x.com/Manvel_0)
   - [LinkedIn](https://www.linkedin.com/in/cristian-manuel-veliz-/)
@@ -89,3 +89,6 @@ El reto está dividido en 7 días, donde aprenderás HTML y construirás tu port
    git clone https://github.com/crimanvel/ManuDev-Aprende-HTML-En-Una-Semana.git
    cd ManuDev-Aprende-HTML-En-Una-Semana
 o puedes descargar la carpeta comprimida si es que aún no dominas git bash o la terminal de tu sistema operativo.
+2. Dirigite a la carpeta dias y dentro, al archivo del primer día!
+
+ÉXITOS EN ESTE CAMINO DE APRENDIZAJE! NO ESTÁS SOLO!
