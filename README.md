@@ -34,6 +34,7 @@ Si te ha sido útil este repositorio, por favor:
   - [Discord](https://discord.gg/u2ATyxKc)
   - [Canal de Whatsapp](https://www.whatsapp.com/channel/0029VakRwLd5EjxyUulkF32j)
   - [Canal de Telegram](https://t.me/manudeves)
+  - [Fiverr](https://www.fiverr.com/crimanvel?up_rollout=true)
 ---
 
 ## 📅 **Reserva tu clase gratuita**
