@@ -32,7 +32,8 @@ Si te ha sido útil este repositorio, por favor:
   - [TikTok](https://www.tiktok.com/@manudev.19)
   - [Facebook](https://www.youtube.com/@cristianmanuelveliz)
   - [Discord](https://discord.gg/u2ATyxKc)
-  - [Whatsapp](https://www.whatsapp.com/channel/0029VakRwLd5EjxyUulkF32j)
+  - [Canal de Whatsapp](https://www.whatsapp.com/channel/0029VakRwLd5EjxyUulkF32j)
+  - [Canal de Telegram](https://t.me/manudeves)
 ---
 
 ## 📅 **Reserva tu clase gratuita**
