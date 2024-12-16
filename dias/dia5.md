@@ -1,5 +1,5 @@
-# Día 5: Usar tablas y listas para organizar contenido
-
+[github-html (1)](https://github.com/user-attachments/assets/df03353f-e6f0-4197-822f-7ce1280908cc)
+# Día 5: Usar tablas y listas para organizar contenido!
 ## 🛠️ Objetivo del día
 
 Hoy aprenderás a:
