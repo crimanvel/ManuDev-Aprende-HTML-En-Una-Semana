@@ -79,7 +79,8 @@ El reto está dividido en 7 días, donde aprenderás HTML y construirás tu port
 | **Día 4**| Agregar imágenes y enlaces para personalizar tu portafolio |
 | **Día 5**| Usar tablas y listas para organizar contenido     |
 | **Día 6**| Crear formularios de contacto en tu portafolio    |
-| **Día 7**| Revisión final y ajustes del portafolio personal  |
+| **Día 7**| Videos iframe y algo de CSS   |
+| **Día Extra**| Revisión final y ajustes del portafolio personal  |
 
 > 📂 **Encuentra los contenidos de cada día en la carpeta `dias/`.**
 
