@@ -78,9 +78,13 @@ Ampliar el archivo index.html creado en el Día 1, añadiendo las etiquetas sem�
 Instrucciones:
 Abre el archivo index.html que creaste en el Día 1.
 Modifica la estructura para incluir las siguientes etiquetas:
-<header>: Usa esta etiqueta para envolver el título de tu página y un menú de navegación.
-<main>: Aquí irá el contenido principal (ej. "Sobre mí", "Proyectos").
-<footer>: Añade un pie de página con derechos de autor.
+
+`<header>`: Usa esta etiqueta para envolver el título de tu página y un menú de navegación.
+
+`<main>`: Aquí irá el contenido principal (ej. "Sobre mí", "Proyectos").
+
+`<footer>`: Añade un pie de página con derechos de autor.
+
 Asegúrate de que tu código se vea como este ejemplo:
 
 ```html
