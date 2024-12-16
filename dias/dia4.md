@@ -1,3 +1,6 @@
+
+![github-html](https://github.com/user-attachments/assets/7cf9a7f9-4354-4038-bcae-d19adbe48365)
+
 # Día 4: Agregar imágenes y enlaces a tu portafolio
 
 ## 🛠️ Objetivo del día
@@ -71,7 +74,5 @@ Enlaza imágenes como botones: Haz que las imágenes sean clicables usando <a> p
   <img src="https://via.placeholder.com/150" alt="Vista previa del proyecto">
 </a>
 ```
-Agrega estilos a tus enlaces (si estás usando CSS): Cambia colores o efectos al pasar el mouse sobre los enlaces.
-
 🌱 ¿Qué sigue?
 En el Día 5 aprenderás a usar tablas y listas para organizar contenido en tu portafolio. ¡Nos vemos mañana! 🚀
