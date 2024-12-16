@@ -33,14 +33,15 @@ Ejemplo:
 ```
 ✨ Énfasis en el texto: `<strong>` y `<em>`
 `<strong>`: Da énfasis fuerte al texto (aparece en negrita).
+
 `<em>`: Da énfasis sutil al texto (aparece en cursiva).
 
 Ejemplo:
 ```html
-<p>Mi proyecto más reciente es <strong>asombroso</strong> y me ayudó a aprender <em>mucho</em>.</p>
+<p> Mi proyecto más reciente es <strong> asombroso </strong> y me ayudó a aprender <em> mucho </em>.</p>
 
 ```
-✍️ Actividad: Mejora la sección "Sobre mí"
+✍️ Actividad: Mejora la sección "Sobre mí" 
 Objetivo:
 Actualizar el archivo index.html para mejorar la sección "Sobre mí" utilizando las etiquetas de texto y encabezados.
 
