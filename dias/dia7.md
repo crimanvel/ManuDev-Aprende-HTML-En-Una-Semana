@@ -1,3 +1,4 @@
+![github-html (4)](https://github.com/user-attachments/assets/2cfdd4e8-92cf-4004-857e-113c178c8f21)
 
 # Día 7: Agregar video, Google Maps y personalizar tu portafolio con CSS
 ## 🛠️ Objetivo del día
