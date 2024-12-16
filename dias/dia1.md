@@ -88,10 +88,11 @@ Después de la declaración <!DOCTYPE html>, la siguiente parte es la etiqueta <
 Ejemplo de como puede estructurarse dentro de la etiqueta html 
 ![image](https://github.com/user-attachments/assets/fa92b4aa-c933-48e3-8ac9-bdce736e68ef)
 
+```html
 <html lang="es">
   <!-- Aquí va todo el contenido del documento -->
 </html>
-
+```
 Dentro de la etiqueta <html>, encontramos dos ramas principales: <head> y <body>.
 
 Ramas Principales: <head> y <body>
