@@ -133,8 +133,10 @@ Las listas en HTML permiten organizar contenido en forma de elementos enumerados
 Hay dos tipos principales de listas:
 
 -Listas ordenadas (`<ol>`): Se utilizan cuando el orden de los elementos es importante. Cada elemento se numera automáticamente.
+
 -Listas no ordenadas (`<ul>`): Se utilizan para agrupar elementos sin un orden específico. Se marcan con viñetas.
-Cada elemento de una lista se define con la etiqueta `<li>`.
+
+-Cada elemento de una lista se define con la etiqueta `<li>`.
 
 🌟 Reto adicional (opcional)
 Agrega una lista adicional en el footer con enlaces a tus redes sociales. Por ejemplo:
