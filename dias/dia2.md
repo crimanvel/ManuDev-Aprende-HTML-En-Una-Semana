@@ -85,6 +85,18 @@ Modifica la estructura para incluir las siguientes etiquetas:
 
 `<footer>`: Añade un pie de página con derechos de autor.
 
+## Listas en HTML
+Las listas en HTML permiten organizar contenido en forma de elementos enumerados o agrupados. 
+
+Hay dos tipos principales de listas:
+
+-Listas ordenadas (`<ol>`): Se utilizan cuando el orden de los elementos es importante. Cada elemento se numera automáticamente.
+
+-Listas no ordenadas (`<ul>`): Se utilizan para agrupar elementos sin un orden específico. Se marcan con viñetas.
+
+-Cada elemento de una lista se define con la etiqueta `<li>`.
+
+
 Asegúrate de que tu código se vea como este ejemplo:
 
 ```html
@@ -126,17 +138,6 @@ Asegúrate de que tu código se vea como este ejemplo:
 
 ```
 Guarda los cambios y abre el archivo en tu navegador para ver cómo luce la estructura.
-
-## Listas en HTML
-Las listas en HTML permiten organizar contenido en forma de elementos enumerados o agrupados. 
-
-Hay dos tipos principales de listas:
-
--Listas ordenadas (`<ol>`): Se utilizan cuando el orden de los elementos es importante. Cada elemento se numera automáticamente.
-
--Listas no ordenadas (`<ul>`): Se utilizan para agrupar elementos sin un orden específico. Se marcan con viñetas.
-
--Cada elemento de una lista se define con la etiqueta `<li>`.
 
 🌟 Reto adicional (opcional)
 Agrega una lista adicional en el footer con enlaces a tus redes sociales. Por ejemplo:
