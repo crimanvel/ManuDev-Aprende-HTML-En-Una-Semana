@@ -1,14 +1,19 @@
 
-Día 7: Agregar video, Google Maps y personalizar tu portafolio con CSS
-🛠️ Objetivo del día
-Hoy aprenderás a:
+# Día 7: Agregar video, Google Maps y personalizar tu portafolio con CSS
+## 🛠️ Objetivo del día
 
-Incorporar un video de YouTube en tu portafolio utilizando la etiqueta <iframe>.
-Agregar un mapa de Google Maps usando un <iframe>.
+Hoy aprenderás a:
+-Incorporar un video de YouTube en tu portafolio utilizando la etiqueta `<iframe>`.
+-Agregar un mapa de Google Maps usando un `<iframe>`.
+
 Introducción a CSS: Cambiar el fondo de tu portafolio.
+
 📜 Teoría
 🎥 Agregar video de YouTube: <iframe>
-La etiqueta <iframe> te permite embeber contenido externo, como videos, dentro de tu página web. En este caso, agregarás un video de YouTube.
+
+La etiqueta `<iframe>` te permite embeber contenido externo, como videos, dentro de tu página web. 
+
+En este caso, agregarás un video de YouTube.
 
 Ejemplo de código:
 
@@ -16,8 +21,9 @@ Ejemplo de código:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
-🌍 Agregar Google Maps: <iframe>
-Puedes integrar un mapa de Google Maps directamente en tu página usando también la etiqueta <iframe>. Asegúrate de obtener el código de inserción desde Google Maps.
+🌍 Agregar Google Maps: `<iframe>`
+
+Puedes integrar un mapa de Google Maps directamente en tu página usando también la etiqueta `<iframe>`. Asegúrate de obtener el código de inserción desde Google Maps.
 
 Ejemplo de código:
 ```html
@@ -25,7 +31,9 @@ Ejemplo de código:
 ```
 
 🎨 Introducción a CSS
-CSS (Cascading Style Sheets) te permite personalizar el diseño de tu portafolio. Hoy aprenderás cómo cambiar el fondo de tu página con una propiedad simple.
+CSS (Cascading Style Sheets) te permite personalizar el diseño de tu portafolio.
+
+Hoy aprenderás cómo cambiar el fondo de tu página con una propiedad simple.
 
 Ejemplo de código CSS para cambiar el fondo:
 ```css
@@ -36,7 +44,7 @@ body {
 
 ✍️ Actividad: Personaliza tu portafolio
 1. Abre tu archivo index.html.
-2. Agrega una sección con un video de YouTube usando la etiqueta <iframe>.
+2. Agrega una sección con un video de YouTube usando la etiqueta `<iframe>`.
 3. Agrega un mapa de Google Maps de tu ubicación o una de tus preferencias usando otro <iframe>.
 4. Crea un archivo de estilo style.css y vincúlalo a tu archivo HTML para cambiar el fondo del portafolio.
 
