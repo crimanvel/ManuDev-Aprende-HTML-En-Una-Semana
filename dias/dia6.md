@@ -36,17 +36,21 @@ Ejemplo básico:
 </form>
 ```
 Atributos importantes de <form>:
+
 action: URL donde se enviará la información.
 method: Define cómo se enviará la información (GET o POST).
 required: Hace que un campo sea obligatorio.
+
 ✍️ Actividad: Crear tu formulario de contacto
+
 Objetivo:
 Agregar un formulario de contacto funcional a tu portafolio.
 
 Instrucciones:
-Abre tu archivo index.html.
-Crea una nueva sección llamada "Contacto" dentro de <main>.
-Agrega el siguiente formulario de contacto:
+1. Abre tu archivo `index.html`.
+2. Crea una nueva sección llamada "Contacto" dentro de <main>.
+3. Agrega el siguiente formulario de contacto:
+   
 ```html
 <section id="contacto">
   <h2>Contáctame</h2>
@@ -65,10 +69,16 @@ Agrega el siguiente formulario de contacto:
 </section>
 ```
 Guarda los cambios y abre el archivo en tu navegador para verificar que el formulario se muestra correctamente.
+
 🌟 Reto adicional (opcional)
-Agrega validaciones básicas: Usa atributos como pattern o maxlength en los campos de entrada. Ejemplo:
+
+Agrega validaciones básicas: Usa atributos como pattern o maxlength en los campos de entrada. 
+
+Ejemplo:
+
 ```html
 <input type="text" id="nombre" name="nombre" pattern="[A-Za-z ]+" title="Solo se permiten letras y espacios" required>
 ```
 🌱 ¿Qué sigue?
+
 En el Día 7 revisaremos tu portafolio completo, haremos ajustes finales y aprenderemos cómo publicarlo para que esté disponible en internet. ¡Nos vemos mañana! 🚀
