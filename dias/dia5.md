@@ -22,11 +22,11 @@ Cada elemento de la lista se define con `<li>`.
 Ejemplo:
 ```html
 <h3>Habilidades</h3>
-<ul>
+<ol>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-</ul>
+</ol>
 
 <h3>Paso a paso:</h3>
 <ol>
@@ -38,10 +38,12 @@ Ejemplo:
 📊 Tablas en HTML
 Las tablas se crean con la etiqueta <table> y se estructuran en:
 
-Filas: Definidas por <tr> (table row).
-Celdas de datos: Definidas por <td> (table data).
-Celdas de encabezado: Definidas por <th> (table header).
+Filas: Definidas por `<tr>` (table row).
+Celdas de datos: Definidas por `<td>` (table data).
+Celdas de encabezado: Definidas por `<th>` (table header).
+
 Ejemplo:
+
 ```html
 <table>
   <thead>
@@ -70,9 +72,13 @@ Objetivo:
 Organizar la sección de "Proyectos" usando una tabla para mostrar información y una lista para destacar tecnologías.
 
 Instrucciones:
-Abre tu archivo index.html.
-Encuentra o crea una sección llamada "Proyectos" dentro de <main>.
-Reemplaza o agrega el contenido para que se vea como este ejemplo:
+
+1.Abre tu archivo index.html.
+
+2.Encuentra o crea una sección llamada "Proyectos" dentro de <main>.
+
+3.Reemplaza o agrega el contenido para que se vea como este ejemplo:
+
 ```html
 <section id="proyectos">
   <h2>Mis Proyectos</h2>
@@ -106,8 +112,11 @@ Reemplaza o agrega el contenido para que se vea como este ejemplo:
 </section>
 ```
 Guarda los cambios y abre el archivo en tu navegador para ver cómo se ve.
+
 🌟 Reto adicional (opcional)
+
 Agrega otra tabla con tus hobbies o intereses. Por ejemplo:
+
 ```html
 <table>
   <thead>
