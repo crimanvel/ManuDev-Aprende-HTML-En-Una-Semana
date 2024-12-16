@@ -64,7 +64,7 @@ Código ejemplo:
   <iframe src="https://www.google.com/maps/embed?pb=..." width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </section>
 
-<!-- Enlace al archivo CSS -->
+<!-- Enlace al archivo CSS, dentro del head -->
 <link rel="stylesheet" href="style.css">
 ```
 🌟 Reto adicional (opcional)
