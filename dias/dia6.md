@@ -1,3 +1,5 @@
+![Uploading github-html (2).png…]()
+
 # Día 6: Crear formularios de contacto en tu portafolio
 
 ## 🛠️ Objetivo del día
