@@ -35,11 +35,11 @@ Ejemplo básico:
   <button type="submit">Enviar</button>
 </form>
 ```
-Atributos importantes de <form>:
+Atributos importantes de `<form>`:
 
-action: URL donde se enviará la información.
-method: Define cómo se enviará la información (GET o POST).
-required: Hace que un campo sea obligatorio.
+-action: URL donde se enviará la información.
+-method: Define cómo se enviará la información (GET o POST).
+-required: Hace que un campo sea obligatorio.
 
 ✍️ Actividad: Crear tu formulario de contacto
 
