@@ -86,4 +86,4 @@ Ejemplo:
 ```
 🌱 ¿Qué sigue?
 
-En el Día 7 revisaremos tu portafolio completo, haremos ajustes finales y aprenderemos cómo publicarlo para que esté disponible en internet. ¡Nos vemos mañana! 🚀
+En el Día 7 revisaremos sumaremos videos, iframe y un poco de css ¡Nos vemos mañana! 🚀
