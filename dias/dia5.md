@@ -1,4 +1,5 @@
-[github-html (1)](https://github.com/user-attachments/assets/df03353f-e6f0-4197-822f-7ce1280908cc)
+![github-html (1)](https://github.com/user-attachments/assets/c9376c64-02bc-4a58-a956-f1fe983fc5f1)
+
 # Día 5: Usar tablas y listas para organizar contenido!
 ## 🛠️ Objetivo del día
 
