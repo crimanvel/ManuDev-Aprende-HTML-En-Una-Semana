@@ -82,7 +82,7 @@ El primer paso en cualquier archivo HTML es la declaración `<!DOCTYPE html>`. E
 Es otra etiqueta que tampoco es necesaria cerrar.
 
 
-El Contenedor Principal: <html>
+El Contenedor Principal: `<html>`
 Después de la declaración <!DOCTYPE html>, la siguiente parte es la etiqueta <html>, que se podría comparar con la raíz del árbol. Esta etiqueta envuelve todo el contenido de la página HTML.
 
 Ejemplo de como puede estructurarse dentro de la etiqueta html 
@@ -95,13 +95,13 @@ Ejemplo de como puede estructurarse dentro de la etiqueta html
 ```
 Dentro de la etiqueta <html>, encontramos dos ramas principales: <head> y <body>.
 
-1) Ramas Principales: "<head>" y "<body>"
+1) Ramas Principales: `<head>` y `<body>`
    
-Las etiquetas <head> y <body> son las ramas principales del árbol HTML. 
+Las etiquetas `<head>` y `<body>` son las ramas principales del árbol HTML. 
 
 Cada una tiene un propósito diferente:
 
-"<head>": Contiene información sobre la página que no es visible para los usuarios, como el título de la página, el conjunto de caracteres, y enlaces a hojas de estilo (CSS).
+`<head>`: Contiene información sobre la página que no es visible para los usuarios, como el título de la página, el conjunto de caracteres, y enlaces a hojas de estilo (CSS).
 
 Ejemplo:
 ```html
@@ -110,7 +110,7 @@ Ejemplo:
   <title>Mi Página Web</title>
 </head>
 ```
-"<body>": Contiene todo el contenido visible de la página, como los encabezados, párrafos, imágenes, enlaces, etc.
+`<body>`: Contiene todo el contenido visible de la página, como los encabezados, párrafos, imágenes, enlaces, etc.
 
 Ejemplo:
 ```html
@@ -120,13 +120,13 @@ Ejemplo:
 </body>
 ```
 Las Etiquetas (Ramas y Sub-ramas):
-Dentro de las ramas "<head>" y "<body>", encontramos muchas sub-ramas. Estas son las etiquetas que definen los diferentes elementos de la página. Algunas de las etiquetas más comunes son:
+Dentro de las ramas `<head>` y `<body>`, encontramos muchas sub-ramas. Estas son las etiquetas que definen los diferentes elementos de la página. Algunas de las etiquetas más comunes son:
 
-Dentro de "<head>":
-"<meta>": Define los metadatos de la página, como la codificación de caracteres.
-"<title>": Establece el título que aparece en la pestaña del navegador.
-Dentro de "<body>":
-"<h1>" a "<h6>": Son las etiquetas de encabezado, donde "<h1>" es el encabezado principal (más grande) y "<h6>" es el más pequeño.
+Dentro de `<head>`:
+`<meta>`: Define los metadatos de la página, como la codificación de caracteres.
+`<tittle>`: Establece el título que aparece en la pestaña del navegador.
+Dentro de `<body>`:
+`<h1>` a `<h6>`: Son las etiquetas de encabezado, donde `<h1>` es el encabezado principal (más grande) y `<h6>` es el más pequeño.
 
 Ejemplo:
 ```html
