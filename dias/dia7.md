@@ -1,4 +1,4 @@
-# Día 7: Revisión final y publicación de tu portafolio
+# Día Extra: Revisión final y publicación de tu portafolio
 
 ## 🛠️ Objetivo del día
 
