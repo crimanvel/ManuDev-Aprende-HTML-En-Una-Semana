@@ -10,8 +10,8 @@ Hoy aprenderás a:
 
 Introducción a CSS: Cambiar el fondo de tu portafolio.
 
-📜 Teoría
-🎥 Agregar video de YouTube: <iframe>
+#📜 Teoría
+##🎥 Agregar video de YouTube: `<iframe>`
 
 La etiqueta `<iframe>` te permite embeber contenido externo, como videos, dentro de tu página web. 
 
