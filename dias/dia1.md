@@ -82,60 +82,71 @@ El primer paso en cualquier archivo HTML es la declaración `<!DOCTYPE html>`. E
 Es otra etiqueta que tampoco es necesaria cerrar.
 
 
-El Contenedor Principal: <html>
+El Contenedor Principal: `<html>`
 Después de la declaración <!DOCTYPE html>, la siguiente parte es la etiqueta <html>, que se podría comparar con la raíz del árbol. Esta etiqueta envuelve todo el contenido de la página HTML.
 
 Ejemplo de como puede estructurarse dentro de la etiqueta html 
 ![image](https://github.com/user-attachments/assets/fa92b4aa-c933-48e3-8ac9-bdce736e68ef)
 
+```html
 <html lang="es">
   <!-- Aquí va todo el contenido del documento -->
 </html>
-
+```
 Dentro de la etiqueta <html>, encontramos dos ramas principales: <head> y <body>.
 
-Ramas Principales: <head> y <body>
-Las etiquetas <head> y <body> son las ramas principales del árbol HTML. Cada una tiene un propósito diferente:
+1) Ramas Principales: `<head>` y `<body>`
+   
+Las etiquetas `<head>` y `<body>` son las ramas principales del árbol HTML. 
 
-<head>: Contiene información sobre la página que no es visible para los usuarios, como el título de la página, el conjunto de caracteres, y enlaces a hojas de estilo (CSS).
+Cada una tiene un propósito diferente:
+
+`<head>`: Contiene información sobre la página que no es visible para los usuarios, como el título de la página, el conjunto de caracteres, y enlaces a hojas de estilo (CSS).
 
 Ejemplo:
+```html
 <head>
   <meta charset="UTF-8">
   <title>Mi Página Web</title>
 </head>
-<body>: Contiene todo el contenido visible de la página, como los encabezados, párrafos, imágenes, enlaces, etc.
+```
+`<body>`: Contiene todo el contenido visible de la página, como los encabezados, párrafos, imágenes, enlaces, etc.
 
 Ejemplo:
+```html
 <body>
   <h1>Bienvenido a mi página web</h1>
   <p>Este es un párrafo de texto.</p>
 </body>
+```
+Las Etiquetas (Ramas y Sub-ramas):
+Dentro de las ramas `<head>` y `<body>`, encontramos muchas sub-ramas. Estas son las etiquetas que definen los diferentes elementos de la página. Algunas de las etiquetas más comunes son:
 
-Las Etiquetas (Ramas y Sub-ramas)
-Dentro de las ramas <head> y <body>, encontramos muchas sub-ramas. Estas son las etiquetas que definen los diferentes elementos de la página. Algunas de las etiquetas más comunes son:
-
-Dentro de <head>:
-<meta>: Define los metadatos de la página, como la codificación de caracteres.
-<title>: Establece el título que aparece en la pestaña del navegador.
-Dentro de <body>:
-<h1> a <h6>: Son las etiquetas de encabezado, donde <h1> es el encabezado principal (más grande) y <h6> es el más pequeño.
+Dentro de `<head>`:
+`<meta>`: Define los metadatos de la página, como la codificación de caracteres.
+`<tittle>`: Establece el título que aparece en la pestaña del navegador.
+Dentro de `<body>`:
+`<h1>` a `<h6>`: Son las etiquetas de encabezado, donde `<h1>` es el encabezado principal (más grande) y `<h6>` es el más pequeño.
 
 Ejemplo:
+```html
 <h1>Mi primer encabezado</h1>
 <p>: Es una etiqueta de párrafo que contiene texto.
-
+```
 Ejemplo:
+```html
 <p>Este es un párrafo de texto en mi página.</p>
 <a>: Es una etiqueta de enlace, usada para vincular a otras páginas.
-
+```
 Ejemplo:
+```html
 <a href="https://github.com">Visita mi GitHub</a>
-
+```
 Anidación de Etiquetas (Cómo se Organizan las Ramas)
 Al igual que un árbol puede tener ramas dentro de otras ramas, las etiquetas HTML pueden estar anidadas. Esto significa que una etiqueta puede estar contenida dentro de otra.
 
 Por ejemplo:
+```html
 <html lang="es">
   <head>
     <meta charset="UTF-8">
@@ -147,7 +158,7 @@ Por ejemplo:
     <a href="https://github.com">Visita mi GitHub</a>
   </body>
 </html>
-
+```
      
 # Actividad 1: Crear tu primer portafolio en HTML
 
@@ -173,3 +184,5 @@ Crear una página web sencilla que contenga un título y un mensaje de bienvenid
     <a href="https://github.com">Visita mi GitHub</a>
   </body>
 </html>
+```
+🌱 ¿Qué sigue? En el Día 2 aprenderás la estructura básica de una web. ¡Nos vemos mañana! 🚀

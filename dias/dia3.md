@@ -1,6 +1,8 @@
-# Día 3: Trabajar con texto y encabezados en tu portafolio
+<img width="960" alt="githun-html" src="https://github.com/user-attachments/assets/c26f8fcf-f0e5-4d52-bfcd-826e5218499b" />
 
-## 🛠️ Objetivo del día
+# Día 3: Trabajar con texto y encabezados en tu portafolio.
+
+## 🛠️ Objetivo del día:
 
 Hoy aprenderás a utilizar etiquetas de texto y encabezados para dar más estructura y estilo a tu portafolio. Esto incluye:
 - Uso de las etiquetas `<h1>` a `<h6>` para títulos.
@@ -9,7 +11,7 @@ Hoy aprenderás a utilizar etiquetas de texto y encabezados para dar más estruc
 
 ---
 
-## 📜 Etiquetas principales de texto en HTML
+## 📜 Etiquetas principales de texto en HTML:
 
 ### 🏗️ Encabezados: `<h1>` a `<h6>`
 HTML incluye seis niveles de encabezados que van desde `<h1>` (el más importante) hasta `<h6>` (el menos importante).  
@@ -21,23 +23,27 @@ Ejemplo:
 <h2>Sobre mí</h2>
 <h3>Mis Proyectos</h3>
 ```
-🖋️ Párrafos: <p>
-La etiqueta <p> se usa para agrupar bloques de texto en párrafos.
+🖋️ Párrafos: `<p>`
+La etiqueta `<p>` se usa para agrupar bloques de texto en párrafos.
 
 Ejemplo:
 ```html
 <p>Soy un desarrollador web apasionado por aprender y crear proyectos innovadores.</p>
 
 ```
-✨ Énfasis en el texto: <strong> y <em>
-<strong>: Da énfasis fuerte al texto (aparece en negrita).
-<em>: Da énfasis sutil al texto (aparece en cursiva).
+✨ Énfasis en el texto: `<strong>` y `<em>`
+
+
+`<strong>`: Da énfasis fuerte al texto (aparece en negrita).
+
+`<em>`: Da énfasis sutil al texto (aparece en cursiva).
+
 Ejemplo:
 ```html
-<p>Mi proyecto más reciente es <strong>asombroso</strong> y me ayudó a aprender <em>mucho</em>.</p>
+<p> Mi proyecto más reciente es <strong> asombroso </strong> y me ayudó a aprender <em> mucho </em>.</p>
 
 ```
-✍️ Actividad: Mejora la sección "Sobre mí"
+✍️ Actividad: Mejora la sección "Sobre mí" 
 Objetivo:
 Actualizar el archivo index.html para mejorar la sección "Sobre mí" utilizando las etiquetas de texto y encabezados.
 
@@ -60,8 +66,11 @@ Encuentra la sección "Sobre mí" dentro del <main> y edítala para que se vea c
 ```
 
 Guarda los cambios y abre el archivo en tu navegador para ver cómo se actualizó la sección.
+
 🌟 Reto adicional (opcional)
-Agrega una nueva sección llamada "Hobbies" dentro de <main>. Usa encabezados y párrafos para describir tus pasatiempos favoritos.
+
+Agrega una nueva sección llamada "Hobbies" dentro de `<main>`. Usa encabezados y párrafos para describir tus pasatiempos favoritos.
+
 Por ejemplo:
 ```html
 <section id="hobbies">
@@ -74,6 +83,7 @@ Por ejemplo:
   </ul>
 </section>
 ```
+
 🌱 ¿Qué sigue?
 En el Día 4 aprenderás a agregar imágenes y enlaces, haciendo que tu portafolio sea más atractivo y funcional. ¡Nos vemos mañana! 🚀
 
