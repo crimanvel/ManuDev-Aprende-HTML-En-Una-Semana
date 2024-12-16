@@ -184,3 +184,5 @@ Crear una página web sencilla que contenga un título y un mensaje de bienvenid
     <a href="https://github.com">Visita mi GitHub</a>
   </body>
 </html>
+```
+🌱 ¿Qué sigue? En el Día 2 aprenderás la estructura básica de una web. ¡Nos vemos mañana! 🚀
