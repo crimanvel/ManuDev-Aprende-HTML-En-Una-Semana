@@ -1,3 +1,5 @@
+<img width="960" alt="githun-html" src="https://github.com/user-attachments/assets/c26f8fcf-f0e5-4d52-bfcd-826e5218499b" />
+
 # Día 3: Trabajar con texto y encabezados en tu portafolio
 
 ## 🛠️ Objetivo del día
