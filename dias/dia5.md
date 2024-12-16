@@ -75,7 +75,7 @@ Instrucciones:
 
 1.Abre tu archivo index.html.
 
-2.Encuentra o crea una sección llamada "Proyectos" dentro de <main>.
+2.Encuentra o crea una sección llamada "Proyectos" dentro de `<main>`.
 
 3.Reemplaza o agrega el contenido para que se vea como este ejemplo:
 
