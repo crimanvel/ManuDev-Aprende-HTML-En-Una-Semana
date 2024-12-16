@@ -3,7 +3,9 @@
 ## 🛠️ Objetivo del día
 
 Hoy aprenderás a:
+
 -Incorporar un video de YouTube en tu portafolio utilizando la etiqueta `<iframe>`.
+
 -Agregar un mapa de Google Maps usando un `<iframe>`.
 
 Introducción a CSS: Cambiar el fondo de tu portafolio.
