@@ -46,7 +46,7 @@ Si te ha sido útil este repositorio, por favor:
 ---
 ¡Espero que disfrutes aprendiendo HTML y que este repositorio sea de gran ayuda en tu camino como programador! 😄
 
-## ¡Bienvenidos al reto!
+## ¡Bienvenidos al Desafío!
 
 Este es un reto de **7 días para aprender HTML**, donde construirás tu propio **portafolio personal** desde el primer día. 
 Cada día aprenderás un tema clave de HTML y lo aplicarás directamente a tu portafolio, que podrás usar para mostrar tu **historial académico**, **habilidades**, **experiencia** y **proyectos**.
