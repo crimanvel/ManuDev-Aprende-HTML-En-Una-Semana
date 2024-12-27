@@ -30,7 +30,7 @@ Si te ha sido útil este repositorio, por favor:
   - [Instagram](https://www.instagram.com/manudev.19)
   - [Youtube](https://www.youtube.com/@cristianmanuelveliz)
   - [TikTok](https://www.tiktok.com/@manudev.19)
-  - [Facebook](https://www.youtube.com/@cristianmanuelveliz)
+  - [Facebook](https://www.facebook.com/profile.php?id=61566878459147)
   - [Discord](https://discord.gg/u2ATyxKc)
   - [Canal de Whatsapp](https://www.whatsapp.com/channel/0029VakRwLd5EjxyUulkF32j)
   - [Canal de Telegram](https://t.me/manudeves)
