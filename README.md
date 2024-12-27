@@ -44,7 +44,6 @@ Si te ha sido útil este repositorio, por favor:
 👉 **(https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0HG25Sux8f2fGPpcppY5a-voU1aXwXDeMQPTJQbBhJqrV324nal_3QrLRwsyZzAS8ffRoM-Qbl)
 
 ---
----
 ¡Espero que disfrutes aprendiendo HTML y que este repositorio sea de gran ayuda en tu camino como programador! 😄
 
 ## ¡Bienvenidos al reto!
