@@ -93,7 +93,12 @@ Ejemplo de como puede estructurarse dentro de la etiqueta html
   <!-- Aquí va todo el contenido del documento -->
 </html>
 ```
-Dentro de la etiqueta <html>, encontramos dos ramas principales: <head> y <body>.
+Podemos utilizar el atributo lang para indicar el idioma de nuestra web, en nuestro caso es lang="es" de español. Sirve para 
+-Accesibilidad: Los lectores de pantalla utilizan el atributo lang para pronunciar correctamente el contenido según el idioma especificado.
+-SEO (Optimización en motores de búsqueda): Los motores de búsqueda pueden entender mejor el idioma principal de la página y mostrarla a los usuarios adecuados.
+-Traducción automática: Los navegadores y herramientas de traducción pueden identificar el idioma y sugerir traducciones adecuadas.
+D
+entro de la etiqueta <html>, encontramos dos ramas principales: <head> y <body>.
 
 1) Ramas Principales: `<head>` y `<body>`
    
@@ -123,8 +128,30 @@ Las Etiquetas (Ramas y Sub-ramas):
 Dentro de las ramas `<head>` y `<body>`, encontramos muchas sub-ramas. Estas son las etiquetas que definen los diferentes elementos de la página. Algunas de las etiquetas más comunes son:
 
 Dentro de `<head>`:
-`<meta>`: Define los metadatos de la página, como la codificación de caracteres.
+Las etiquetas `<meta>` en HTML proporcionan información sobre la página web (metadatos) y se colocan dentro de <head>.
+Normalmente se utilizan para especificar el conjunto de caracteres, la descripción de la página, las palabras clave, el autor del documento y la configuración de la ventana gráfica.
+
+Los metadatos no se mostrarán en la página, pero la máquina podrá analizarlos.
+
+Son utilizados por los navegadores (cómo mostrar contenido o recargar la página), motores de búsqueda (palabras clave) y otros servicios web.
+No está dentro del alcance por ahora conocer sobre SEO  y sobre todas las etiquetas meta pero te dejo donde poder averiguar más:
+https://www.w3schools.com/TAGs/tag_meta.asp
+https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=es
+
+Por ahora, solo analizaremos el atributo charset y su valor UTF-8
+
+`<meta charset="UTF-8">`: Define los metadatos de la página, como la codificación de caracteres.
+UTF-8 (Unicode Transformation Format - 8 bits) es un formato de codificación de caracteres que permite representar texto en prácticamente cualquier idioma del mundo.
+
+¿Por qué es importante?
+
+Compatibilidad universal: Soporta casi todos los caracteres de todos los idiomas, incluyendo símbolos, emojis y caracteres especiales.
+Eficiencia: Usa 1 byte para caracteres ASCII estándar (A-Z, a-z, 0-9, etc.) y más bytes solo cuando es necesario para caracteres más complejos.
+Evita errores de codificación: Sin una codificación adecuada, pueden aparecer caracteres incorrectos o símbolos extraños (como "�" o "Ã±" en lugar de "ñ").
+Es el estándar en la web: Es la codificación recomendada para HTML, XML y casi todos los sistemas modernos.
+
 `<tittle>`: Establece el título que aparece en la pestaña del navegador.
+
 Dentro de `<body>`:
 `<h1>` a `<h6>`: Son las etiquetas de encabezado, donde `<h1>` es el encabezado principal (más grande) y `<h6>` es el más pequeño.
 
