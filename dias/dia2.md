@@ -39,6 +39,7 @@ Aquí tienes un ejemplo de cómo organizar el contenido de tu portafolio con est
 <html lang="es">
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Portafolio</title>
   </head>
   <body>
@@ -104,6 +105,7 @@ Asegúrate de que tu código se vea como este ejemplo:
 <html lang="es">
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Portafolio</title>
   </head>
   <body>
