@@ -150,6 +150,15 @@ Eficiencia: Usa 1 byte para caracteres ASCII estándar (A-Z, a-z, 0-9, etc.) y m
 Evita errores de codificación: Sin una codificación adecuada, pueden aparecer caracteres incorrectos o símbolos extraños (como "�" o "Ã±" en lugar de "ñ").
 Es el estándar en la web: Es la codificación recomendada para HTML, XML y casi todos los sistemas modernos.
 
+`<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Esa metaetiqueta en HTML indica que la página web debe ajustarse al ancho de la pantalla del dispositivo y escalar correctamente para una mejor experiencia en móviles y tablets.
+
+Explicación sencilla:
+📌 width=device-width → Ajusta el ancho de la página al ancho del dispositivo.
+📌 initial-scale=1.0 → Mantiene el nivel de zoom inicial sin cambios.
+
+Esto ayuda a que la página sea responsive (se vea bien en cualquier pantalla).
+
+
 `<tittle>`: Establece el título que aparece en la pestaña del navegador.
 
 Dentro de `<body>`:
@@ -177,6 +186,7 @@ Por ejemplo:
 <html lang="es">
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Portafolio</title>
   </head>
   <body>
@@ -203,6 +213,7 @@ Crear una página web sencilla que contenga un título y un mensaje de bienvenid
 <html lang="es">
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Portafolio</title>
   </head>
   <body>
